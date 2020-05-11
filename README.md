@@ -1,4 +1,7 @@
-# Tableau Homework - Citi Bike Analytics
+https://public.tableau.com/profile/james3259#!/vizhome/Bike_data_twbx/SubscribersvsCustomers?publish=yes
+
+# Tableau - Citi Bike Analytics
+
 
 ### Before You Begin
 
