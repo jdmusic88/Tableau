@@ -1,4 +1,4 @@
-https://public.tableau.com/profile/james3259#!/vizhome/Bike_data_twbx/SubscribersvsCustomers?publish=yes
+https://public.tableau.com/profile/james3259#!/
 
 # Tableau - Citi Bike Analytics
 
